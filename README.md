@@ -87,6 +87,4 @@ set EnableStageEncoding true
 run -j
 </code></pre>
 
-..........................................<a href="https://uk2blogger.blogspot.com/2021/03/best-way-to-generate-metasploit.html">read more</a>
-
 
